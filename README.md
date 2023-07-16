@@ -1,0 +1,11 @@
+- 👋 Hi, I’m @mr-eRrion
+- 👀 I’m interested in arcaea, coding and physics
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me Email:2893762365@qq.com
+- 👣 I'm from Chinese.
+
+<!---
+mr-eRrion/mr-eRrion is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
