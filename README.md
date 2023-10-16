@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mr-eRrion
-- 👀 I’m interested in coding ， physics and a bit of mathematics
+- 👀 I’m interested in coding , physics and a bit of mathematics
 - 🌱 I’m currently learning in Tsinghua University
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Email:2893762365@qq.com
